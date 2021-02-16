@@ -1,16 +1,30 @@
 # user_frontend_mybarber
 
-A new Flutter project.
+Created from Flutter Project
 
-## Getting Started
+I'm only using Cupertino Widgets from Flutter
 
-This project is a starting point for a Flutter application.
+Mobile Application User MyBarber.
+It consume API from my other repo. https://github.com/muhfauqhi/backend-mybarber
 
-A few resources to get you started if this is your first Flutter project:
+notes: This is only prototype
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Getting Started
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+1. How to create booking
+
+![Alt Text](https://media.giphy.com/media/Z0qwUgcc7fpPXCoT9a/giphy.gif)
+
+
+2. This is the view when your booking is update to Booked
+
+![Alt Text](https://media.giphy.com/media/zExs8YiKjZ1PI0G0OB/giphy.gif)
+
+3. This is the view when your booking is update to On Process
+
+![Alt Text](https://media.giphy.com/media/bj913HYFbhGvaQ4qzf/giphy.gif)
+
+4. After Booking statis Finish, You can give rating to your Booking
+
+![Alt Text](https://media.giphy.com/media/kNjV02nJRYEAJVGh8O/giphy.gif)
