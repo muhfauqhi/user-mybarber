@@ -25,6 +25,6 @@ notes: This is only prototype
 
 ![Alt Text](https://media.giphy.com/media/bj913HYFbhGvaQ4qzf/giphy.gif)
 
-4. After Booking statis Finish, You can give rating to your Booking
+4. After Booking status Finish, You can give rating to your Booking
 
 ![Alt Text](https://media.giphy.com/media/kNjV02nJRYEAJVGh8O/giphy.gif)
